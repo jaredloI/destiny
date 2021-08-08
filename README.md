@@ -13,5 +13,5 @@ the #1 da hood script~
 
 **__Script:__**
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Compwnter/destiny/main/loader'))();
+loadstring(game:HttpGet('https://raw.githubusercontent.com/compwnter/destiny/main/loader'))();
 ```
