@@ -166,7 +166,7 @@ end
 local UILibrary = {}
 
 function UILibrary.Load(GUITitle)
-	local TargetedParent = RunService:IsStudio() and Player:WaitForChild("PlayerGui") or CoreGuiService
+	local TargetedParent = CoreGuiService
 
 	local FindOldInstance = TargetedParent:FindFirstChild(GUITitle)
 
