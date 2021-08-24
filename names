@@ -1,0 +1,13 @@
+local v = {
+	
+};
+function w()
+	for _, x in pairs(game:GetService('Players'):GetChildren()) do
+		if table.find(v, (tostring(x.UserId))) then
+			if x.Character then
+				x.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐] ' .. x.DisplayName)
+			end;
+		end;
+	end;
+end;
+local _, y = pcall(w);
