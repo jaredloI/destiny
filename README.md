@@ -4,6 +4,8 @@ the #1 da hood script~
 
 **__Credits__**
 * [Compwnter#5640] - owner | scripter <br/>
+* [Nighter#0001] - dev | scripter <br/>
+* [Lu?#7643] - help | scripter <br/>
 
 **__About__**
 - [x] high quality!
