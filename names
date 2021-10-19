@@ -5,6 +5,7 @@ local v = {
 	'2734453481';
 	'2203904237';
 	'911992454';
+	'2228337484';
 };
 function w()
 	for _, x in pairs(game:GetService('Players'):GetChildren()) do
