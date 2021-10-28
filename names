@@ -1,13 +1,1 @@
-local v = {
-	2312147501;
-};
-function w()
-	for _, x in pairs(game:GetService('Players'):GetChildren()) do
-		if table.find(v, (tostring(x.UserId))) then
-			if x.Character then
-				x.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐] ' .. x.DisplayName)
-			end;
-		end;
-	end;
-end;
-local _, y = pcall(w);
+2312147501
